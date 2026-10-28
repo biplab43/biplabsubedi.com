@@ -1,0 +1,49 @@
+# Biplab Subedi
+
+> Biplab Subedi is an Agile consultant and coach. He has coached more than 20 teams since 2020, across EdTech, transcription, typography, healthcare and retail, for US and European companies. From February 2027 he is based in Kathmandu, Nepal, working as an independent Agile consultant with companies in Nepal and remotely with teams anywhere. He works in Nepali and English.
+
+He helps leaders and teams turn busy into real value: clear, visible goals and teams that make their own decisions. His main audience is founders and leaders of Nepali IT companies, especially those delivering for international clients.
+
+## Services
+
+- Agile consulting: flow metrics that show where work waits, forecasts built on real delivery data instead of hopeful dates, empirical product planning with Product Managers, and transparency from the team board to the leadership table.
+- Training and workshops: Scrum and Kanban, plus topics like Psychological Safety, OKRs and Evidence-Based Management. Live and self-paced, designed with Training from the Back of the Room and Liberating Structures.
+- Coaching and mentoring: working agreements teams write themselves, transparent backlogs refined just in time, retrospectives grounded in evidence, and teams that run their own Scrum events.
+
+## Background
+
+- Five years as a PHP developer.
+- Five years co-founding Eagle Vision IT, a software agency in the Kathmandu Valley, where he found Agile by making it work in his own company.
+- Coaching teams since 2020, most recently as Agile Team Coach at Snappet, a Dutch EdTech company, in the Netherlands.
+- Founded The Liberators Network User Group Nepal in 2022. It meets on the first Sunday of every month and has held more than 40 meetups, each designed and facilitated by a member using Liberating Structures.
+
+## Credentials and training
+
+- PSM II (Professional Scrum Master II), Scrum.org
+- Trained under Gunther Verheyen, Sjoerd Nijland and Fred Fowler
+- Tour du Mont Blanc leadership expedition, Road 2 Mastery
+- Badass Agile Coaching Masterclass, Agile Moose
+
+## Contact
+
+- LinkedIn is the only contact channel: https://www.linkedin.com/in/biplab43/
+- There is no contact form and no public email address.
+
+## Links
+
+- [Website](https://biplabsubedi.com/): one-page profile
+- [LinkedIn](https://www.linkedin.com/in/biplab43/)
+- [Medium](https://medium.com/@biplab43): writing on Scrum, product discovery and Agile practice
+- [X](https://x.com/biplab43)
+- [The Liberators Network User Group Nepal](https://www.linkedin.com/groups/14041620/)
+
+## Writing
+
+- [5 Product Discovery Pitfalls Leading to Scrum Failures](https://medium.com/serious-scrum/5-product-discovery-pitfalls-leading-to-scrum-failures-5e4131698b0f)
+- [3 Reasons Why Scrum Teams Fail to Create Increment in Sprint](https://medium.com/serious-scrum/3-reasons-why-scrum-teams-fail-to-create-increment-in-sprint-b825e2ab7377)
+
+## Talks
+
+- [Your Idea Isn't Enough: The Reality of Entrepreneurship and Career Growth](https://www.youtube.com/watch?v=huzbRBligv8), BYC Podcast 2026
+- [Add Magic to Your Workplace](https://wordpress.tv/2018/05/05/biplab-subedi-add-magic-to-your-workplace/), WordCamp Kathmandu 2018
+- [Pressing on the WordPress: A journey from PHP programmer to WordPress entrepreneur](https://www.youtube.com/watch?v=pSSGap9YU-0), WordCamp Singapore 2017
