@@ -143,7 +143,7 @@ form .btn { justify-self: start; }
 #ikigai-dialog { width: min(92vw, 860px); max-height: 92vh; padding: 2.75rem 1rem 1rem; border: 0; border-radius: 12px; background: var(--bg); color: var(--text); }
 #ikigai-dialog::backdrop { background: rgba(16, 32, 46, 0.65); }
 .ik-scroll { overflow: auto; max-height: calc(92vh - 4rem); }
-.ik-scroll .ik2 { min-width: 640px; }
+.ik-frame { display: block; width: 100%; min-width: 640px; aspect-ratio: 1200 / 1470; border: 0; background: transparent; }
 .dialog-close { position: absolute; top: 0.5rem; right: 0.75rem; font: inherit; font-size: 1.75rem; line-height: 1; color: var(--muted); background: none; border: 0; padding: 0.25rem 0.5rem; cursor: pointer; border-radius: 6px; }
 .dialog-close:hover { color: var(--ink); }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
@@ -153,43 +153,3 @@ footer .wrap { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2rem; 
 footer ul { list-style: none; margin: 0; padding: 0; }
 footer li { margin-bottom: 0.3rem; }
 footer .links a { margin-right: 1.25rem; }
-:root { --ik2-bg: #F3F1EB; --ik2-box: #FFFFFF; --ik2-rule-c: #D3CEC3;
---ik2-ink: #1F3A5F; --ik2-text: #33393F; --ik2-sub: #5F6670;
---ik2-love: #D9A3A0; --ik2-love-ink: #8A4A46; --ik2-good: #8FA6C4; --ik2-good-ink: #2F4A6E;
---ik2-need: #86C7B0; --ik2-need-ink: #0F6E56; --ik2-paid: #E8CF8E; --ik2-paid-ink: #7A5A12;
---ik2-accent: #0F6E56; --ik2-op: 0.36; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --ik2-bg: #152a3c; --ik2-box: #10202E; --ik2-rule-c: #2A3F52;
---ik2-ink: #EAF0F5; --ik2-text: #E4EAF0; --ik2-sub: #B4C0CA;
---ik2-love: #C98A86; --ik2-love-ink: #F0C2BE; --ik2-good: #6F8BB0; --ik2-good-ink: #C3D4EA;
---ik2-need: #4FA889; --ik2-need-ink: #9FE1CB; --ik2-paid: #C9A85A; --ik2-paid-ink: #F2DDA4;
---ik2-accent: #5DCAA5; --ik2-op: 0.22; } }
-:root[data-theme="dark"] { --ik2-bg: #152a3c; --ik2-box: #10202E; --ik2-rule-c: #2A3F52;
---ik2-ink: #EAF0F5; --ik2-text: #E4EAF0; --ik2-sub: #B4C0CA;
---ik2-love: #C98A86; --ik2-love-ink: #F0C2BE; --ik2-good: #6F8BB0; --ik2-good-ink: #C3D4EA;
---ik2-need: #4FA889; --ik2-need-ink: #9FE1CB; --ik2-paid: #C9A85A; --ik2-paid-ink: #F2DDA4;
---ik2-accent: #5DCAA5; --ik2-op: 0.22; }
-
-.ik2 { display: block; width: 100%; height: auto; }
-.ik2 text { font-family: "Nunito Sans", "Segoe UI", system-ui, sans-serif; }
-.ik2-bg { fill: var(--ik2-bg); }
-.ik2-box { fill: var(--ik2-box); stroke: var(--ik2-rule-c); stroke-width: 1; }
-.ik2-title { font-family: "Fraunces", Georgia, serif !important; font-size: 50px; font-weight: 500; fill: var(--ik2-ink); }
-.ik2-sub { font-size: 18px; fill: var(--ik2-sub); }
-.ik2-date { font-size: 12.5px; font-weight: 700; letter-spacing: 0.08em; fill: var(--ik2-sub); }
-.ik2-stmt { font-family: "Fraunces", Georgia, serif !important; font-size: 21px; font-weight: 500; fill: var(--ik2-ink); }
-.ik2-em { font-style: italic; }
-.ik2-c { fill-opacity: var(--ik2-op); stroke-width: 1.5; stroke-opacity: 0.7; }
-.ik2-love { fill: var(--ik2-love); stroke: var(--ik2-love-ink); }
-.ik2-good { fill: var(--ik2-good); stroke: var(--ik2-good-ink); }
-.ik2-need { fill: var(--ik2-need); stroke: var(--ik2-need-ink); }
-.ik2-paid { fill: var(--ik2-paid); stroke: var(--ik2-paid-ink); }
-.ik2-h { font-size: 13.5px; font-weight: 700; letter-spacing: 0.06em; }
-.ik2-love-ink { fill: var(--ik2-love-ink); } .ik2-good-ink { fill: var(--ik2-good-ink); }
-.ik2-need-ink { fill: var(--ik2-need-ink); } .ik2-paid-ink { fill: var(--ik2-paid-ink); }
-.ik2-i { font-size: 14.5px; fill: var(--ik2-text); }
-.ik2-o { font-size: 14.5px; font-weight: 700; fill: var(--ik2-ink); }
-.ik2-os { font-size: 12px; fill: var(--ik2-text); }
-.ik2-pill { fill: var(--ik2-box); stroke: var(--ik2-accent); stroke-width: 1.5; }
-.ik2-center { font-size: 18px; font-weight: 700; letter-spacing: 0.08em; fill: var(--ik2-accent); }
-.ik2-rule { stroke: var(--ik2-rule-c); stroke-width: 1.5; }
-.ik2-foot { font-size: 15px; fill: var(--ik2-sub); }
