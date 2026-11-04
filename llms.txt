@@ -6,7 +6,7 @@ He helps leaders and teams turn busy into real value: clear, visible goals and t
 
 ## Services
 
-- Agile consulting: flow metrics that show where work waits, forecasts built on real delivery data instead of hopeful dates, empirical product planning with Product Managers, and transparency from the team board to the leadership table.
+- Agile consulting: for leaders who want results, not rituals. Business outcomes first, with Agile as the toolbox: a clear view of where work gets stuck, forecasts built on real data instead of hopeful dates, product plans that follow evidence, and impact customers and boards can feel.
 - Training and workshops: Scrum and Kanban, plus topics like Psychological Safety, OKRs and Evidence-Based Management. Live and self-paced, designed with Training from the Back of the Room and Liberating Structures.
 - Coaching and mentoring: working agreements teams write themselves, transparent backlogs refined just in time, retrospectives grounded in evidence, and teams that run their own Scrum events.
 
